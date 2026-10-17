@@ -1,0 +1,20 @@
+{
+  "name": "@budget-perso/worker",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev src/index.ts",
+    "typecheck": "tsc --noEmit --pretty false",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "latest",
+    "decimal.js": "^10.6.0"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "vitest": "latest",
+    "wrangler": "latest"
+  }
+}

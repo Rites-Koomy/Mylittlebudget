@@ -1,0 +1,7 @@
+name = "budget-perso-worker"
+main = "src/index.ts"
+compatibility_date = "2026-10-17"
+
+[vars]
+# Les paramètres Access réels seront configurés au moment du déploiement.
+# Aucun secret ni identifiant Neon n'est stocké ici.

@@ -1,0 +1,10 @@
+{
+  "name": "Budget Perso",
+  "short_name": "Budget Perso",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#17324d",
+  "description": "Gestion budgétaire personnelle.",
+  "icons": []
+}

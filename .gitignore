@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.wrangler/
+coverage/
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+
+# Métadonnées locales de l'agent et de l'environnement de travail
+.agents/
+skills-lock.json
